@@ -24,4 +24,8 @@ transactionRouter.get('/getBalance',
     transactionController.getBalance
 )
 
+transactionRouter.post('/reserve',
+    transactionController.reserve
+)
+
 module.exports = transactionRouter

@@ -1,4 +1,5 @@
 ## ROUTER ##
- 	/api/v1/bankingAPI/account
- 	/api/v1/bankingAPI/test
- 	/api/v1/bankingAPI/transaction
+ 	/api/v1/foodGrizzly/account
+ 	/api/v1/foodGrizzly/store
+ 	/api/v1/foodGrizzly/test
+ 	/api/v1/foodGrizzly/transaction
